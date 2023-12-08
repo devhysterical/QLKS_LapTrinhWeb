@@ -1,0 +1,66 @@
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+c:\users\dealer\documents\visual studio 2013\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll.config
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\QuanLyKhachSan.pdb
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Infrastructure.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\EntityFramework.SqlServer.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\Newtonsoft.Json.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Net.Http.Formatting.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Helpers.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Http.WebHost.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Mvc.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.Razor.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Deployment.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\bin\System.Web.WebPages.Razor.xml
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.dll
+D:\LapTrinhWeb\2124802010307_LamTuanKiet_KhachSanOnline_LapTrinhWeb\QLKS_v1.0\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
